@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<MUSE>
+	<muzycy>
+		<muzyk jezyk="EN">
+			 <imie>Matthew Bellamy</imie>
+			 <dzialalnosc>wokalista</dzialalnosc>
+			 <dzialalnosc>gitarzysta</dzialalnosc>
+			 <dzialalnosc>kompozytor</dzialalnosc>
+			 <instrument>gitara</instrument>
+			 <instrument>fortepian</instrument>
+			 <pseudonim Czy_ma_pseudonim="Tak">Matt</pseudonim>
+			 <data_urodzenia>1978-06-09</data_urodzenia>
+		<pochodzenie Czy_z_UK="Tak">Cambbridge</pochodzenie>
+		 <czas Od_kiedy="Od_początku">1994</czas>
+	   </muzyk>
+		<muzyk jezyk="EN">
+			 <imie>Christopher Wolstenholme</imie> 
+			 <dzialalnosc>basista</dzialalnosc>
+			 <instrument>gitara basowa</instrument>
+			 <instrument>harmonijka</instrument>
+			 <pseudonim Czy_ma_pseudonim="Tak">Chris</pseudonim>
+			 <data_urodzenia>1978-12-02</data_urodzenia>
+         <pochodzenie Czy_z_UK="Tak">Rotherdam</pochodzenie>
+		 <czas Od_kiedy="Od_początku">1994</czas>
+	   </muzyk> 
+	   <muzyk jezyk="EN">
+			 <imie>Dominic Howard</imie>
+			 <dzialalnosc>perkusista</dzialalnosc>
+			 <instrument>perkusja</instrument>
+			 <pseudonim Czy_ma_pseudonim="Tak">Dom</pseudonim>
+			 <data_urodzenia>1977-07-12</data_urodzenia>
+         <pochodzenie Czy_z_UK="Tak">Stockport</pochodzenie>
+		 <czas Od_kiedy="Od_początku">1994</czas>
+	   </muzyk> 
+	</muzycy>
+
+	<galeria>
+		 <zdjecie opis_zdjecia="Matt" typ_zdjecia="jpg">
+			<zdjecie_link>
+				  <link href="1.jpg"/>
+			</zdjecie_link>
+		</zdjecie>    
+		<zdjecie opis_zdjecia="Chris" typ_zdjecia="jpg">
+			<zdjecie_link>
+				  <link href="2.jpg"/>
+			</zdjecie_link>
+		</zdjecie>   
+		<zdjecie opis_zdjecia="Dom" typ_zdjecia="jpg">
+			<zdjecie_link>
+				  <link href="3.jpg"/>
+			</zdjecie_link>
+		</zdjecie>   
+		<zdjecie opis_zdjecia="Muse" typ_zdjecia="jpg">
+			<zdjecie_link>
+				  Zdjecie zespolu: <link href="4.jpg"/>
+			</zdjecie_link>
+		</zdjecie>   				
+	</galeria>
+			
+		
+	<linki>
+		<link href="http://muse.mu">Oficjalna strona Muse</link>
+		<link href="http://www.musewiki.org/MuseWiki">MuseWiki</link>
+		<link href="https://www.youtube.com/embed/-DUuEVTYtY0">Nagranie z koncertu</link>
+		<link href="https://www.youtube.com/user/muse">Oficjalny kanał MUSE na youtube.com</link>
+	</linki>
+	
+	<plyta>
+		<nazwa>Showbiz</nazwa>
+		<cena>65</cena>
+		<kod_produktu>XXZ-65267</kod_produktu>
+		<singiel>Uno</singiel>
+		<piosenki>13</piosenki>
+		<trasa>6</trasa>
+		<dlugosc>7</dlugosc>
+	</plyta>
+	
+
+</MUSE>

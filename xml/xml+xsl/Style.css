@@ -1,0 +1,78 @@
+﻿h1 {
+text-align:right;
+font-family: Times New Roman;
+font-size: 12pt;
+color: blue;
+
+}
+
+h2 {
+text-align:center;
+font-family: Georgia;
+font-size: 20pt;
+font-weight: bold;
+color: red;
+
+}
+
+h3 {
+text-align:center;
+font-family: Times New Roman;
+font-size: 15pt;
+color: green;
+
+}
+
+h4
+{
+font-family: arial;
+color: pink;
+background-color: yellow;
+font-size: 15pt;
+word-spacing: 2.5pt;
+
+}
+
+
+h5
+{
+font-family: arial;
+color: purple;
+background-color: yellow;
+font-size: 15pt;
+word-spacing: 2.5pt;
+text-align:center;
+
+}
+
+
+tr {
+
+color:purple;
+border: 3px solid black;
+	background-color: #3399FF;
+}
+
+table
+{
+	border-collapse:collapse;
+	text-align: center;
+    border: 0.5px solid red;
+	font-size: 15px;
+	font-family: Times New Roman;
+
+
+}
+
+td
+{
+	border: 1.5px solid black;
+	background-color: #33ccff;
+
+}
+
+body
+{
+	background-color: #e6e6e6;
+
+}

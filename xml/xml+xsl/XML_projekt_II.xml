@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="2.xsl"?>
+
+
+<MUSE grafika="Logo.jpg">
+
+	<muzycy>
+		<muzyk>
+			 <imie>Matthew</imie>
+			 <funkcja>wokalista</funkcja>
+			 <instrument>gitara</instrument>
+			 <pseudonim>Matt</pseudonim>
+			 <data_urodzenia>1978-06-09</data_urodzenia>
+			 <wiek>38</wiek>
+			 <pochodzenie>Cambbridge</pochodzenie>
+	   </muzyk>
+		<muzyk>
+			 <imie>Christopher</imie> 
+			 <funkcja>basista</funkcja>
+			 <instrument>gitara basowa</instrument>
+			 <pseudonim>Chris</pseudonim>
+			 <data_urodzenia>1978-12-02</data_urodzenia>
+			 <wiek>38</wiek>
+			 <pochodzenie>Rotherdam</pochodzenie>
+	   </muzyk> 
+		<muzyk>
+			 <imie>Dominic</imie>
+			 <funkcja>perkusista</funkcja>
+			 <instrument>perkusja</instrument>
+			 <pseudonim>Dom</pseudonim>
+			 <data_urodzenia>1977-07-12</data_urodzenia>
+			 <wiek>39</wiek>
+			 <pochodzenie>Stockport</pochodzenie>
+	   </muzyk> 
+	</muzycy>
+
+	<linki>
+		<link adres="http://muse.mu">Oficjalna strona Muse</link>
+		<link adres="http://www.musewiki.org/MuseWiki">MuseWiki</link>
+	</linki>
+	
+	
+	<plyty>
+			<plyta>
+				 <nazwa>Showbiz</nazwa>
+				 <l.piosenek>13</l.piosenek>
+				 <singiel>Sunburn</singiel>
+				 <rok_wydania>1999</rok_wydania>
+				 <czas_trwania>98</czas_trwania>
+				 <ocena>8.7</ocena>
+				 
+			</plyta>
+			<plyta>
+				 <nazwa>The2Law</nazwa>
+				 <l.piosenek>13</l.piosenek>
+				 <singiel>Madness</singiel>
+				 <rok_wydania>2012</rok_wydania>
+				 <czas_trwania>68</czas_trwania>
+				 <ocena>7.7</ocena>
+
+			</plyta>
+			<plyta>
+				 <nazwa>Drones</nazwa>
+				 <l.piosenek>12</l.piosenek>
+				 <singiel>Psycho</singiel>
+				 <rok_wydania>2015</rok_wydania>
+				 <czas_trwania>76</czas_trwania>
+				 <ocena>9.2</ocena>
+
+			</plyta>
+			<plyta>
+				 <nazwa>Absolution</nazwa>
+				 <l.piosenek>15</l.piosenek>
+				 <singiel>Hysteria</singiel>
+				 <rok_wydania>2003</rok_wydania>
+				 <czas_trwania>111</czas_trwania>
+				 <ocena>9.7</ocena>
+
+			</plyta>
+			<plyta>
+				 <nazwa>Resistance</nazwa>
+				 <l.piosenek>11</l.piosenek>
+				 <singiel>Uprising</singiel>
+				 <rok_wydania>2007</rok_wydania>
+				 <czas_trwania>75</czas_trwania>
+				 <ocena>6.8</ocena>
+
+
+			</plyta>
+			<plyta>
+				 <nazwa>Origin</nazwa>
+				 <l.piosenek>12</l.piosenek>
+				 <singiel>New Born</singiel>
+				 <rok_wydania>2001</rok_wydania>
+				 <czas_trwania>82</czas_trwania>
+				 <ocena>9.6</ocena>
+
+			</plyta>
+	</plyty>
+	
+	<trasy>
+			<trasa>
+				 <album>Drones</album>
+				 <rok>2015</rok>
+				 <liczba>45</liczba>
+			</trasa>	
+			<trasa>
+				 <album>Absolution</album>
+				 <rok>2003</rok>
+				 <liczba>63</liczba>
+			</trasa>	
+			<trasa>
+				 <album>Origin</album>
+				 <rok>2001</rok>
+				 <liczba>42</liczba>
+			</trasa>
+			<trasa>
+				 <album>Resistance</album>
+				 <rok>2009</rok>
+				 <liczba>78</liczba>
+			</trasa>
+	</trasy>
+
+	
+	<opis>
+		<nazwa>MUSE</nazwa>
+		<rok_zalozenia  data="1994-02-11"></rok_zalozenia>
+		<styl>rock</styl>
+		<pochodzenie>UK</pochodzenie>
+    </opis>
+	
+
+	
+	<oceny_Drones>
+		<ocena_moja>8.5</ocena_moja>
+		<ocena_Rolling_Stones>7.8</ocena_Rolling_Stones>
+		<ocena_NME>8.8</ocena_NME>
+	</oceny_Drones>
+	
+	
+<moje_dane>
+<imie_moje>Magda</imie_moje>
+<nazwisko_moje>Manthey</nazwisko_moje>
+</moje_dane>
+	
+</MUSE>
