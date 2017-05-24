@@ -1,0 +1,198 @@
+﻿body
+{
+	font-family:Georgia, Times New Roman;
+	background-color: #e6e6e6;
+}
+
+#Caly_dokument
+{
+    width: 950px;
+    min-height:650px;
+    margin:0px auto;
+    border: hidden;
+	background: #efefef;
+
+}
+
+header
+{
+    width:950px;
+    height:150px;
+    border-bottom:none;
+    position:relative;
+	
+}
+
+#Menu
+{
+    
+    position:relative;
+    float:left;
+    width:23%;
+    min-height:500px;
+    border-right:hidden;
+    border-bottom:hidden;
+	margin-right: 5px;
+    
+
+}
+#Menu a{
+	text-decoration: none;
+	font-size: 18px;
+    text-align:left;
+	
+}
+#Menu a:hover{
+	color: #0099CC;
+}
+#Pole
+{
+	float: right;
+	height:auto;
+	width: 75%;
+}
+#Pole a{
+	text-decoration: none;
+	font-size: 18px;
+    text-align:left;
+	
+}
+#Pole a:hover{
+	color: #0099CC;
+}
+
+@keyframes anim1 {
+    from {left: 0%;}
+    to {left: 69%;}
+}
+
+#obrazek{
+height:90px;
+width:220px;
+position:relative;
+	animation-name: anim1;
+    animation-duration: 35s;
+}
+
+footer
+{
+    background-color:#bbbbbb;
+	color:  #0099CC;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Georgia;
+	width: 100%;
+	clear: both; 
+
+}
+footer a:hover{
+	color: #0099CC;
+
+}
+
+h6 
+{
+    text-align:center;
+    line-height:0px;
+    margin-bottom:20px;
+    margin-top:20px;
+    color:#0099CC;
+	text-transform:none;
+	font-size: 15px;
+}
+h6.Introduction
+{
+    font-size: 45px;
+    margin-top:45px;
+    margin-bottom:45px;
+	font-weight:bold;
+	color: blue;
+}
+h3
+{
+    text-align:left;
+    font-style:normal;
+    font-size:14px;
+    font-weight:bold;
+    color: #0099CC;
+
+}
+
+h2
+{
+    font-family:Georgia;
+    font-weight:bold;
+    font-style:normal;
+    color:red;
+    text-align:center;
+	text-decoration: none ;
+}
+
+h2.Opis
+{
+    color:#6666ff;
+    text-align:center;
+    font-style:times new roman;
+	font-size:20px;
+	text-align:center;
+}
+h4
+{
+    text-align:justify;
+	text-transform:capitalize;
+    font-style:Times New Roman;
+    color:green;
+    font-size:20px;
+    margin-right:5px;
+
+}
+
+
+h5
+{
+	font-family:Georgia;
+    font-style:normal;
+    color:red;
+}
+h5.podpis
+{
+   color:#6699ff;
+   font-size:16px;
+   text-align:center;
+}
+
+table
+{
+	border-collapse:collapse;
+	text-align:center;
+    border: 2.5px solid black;
+	font-size: 15px;
+	color: #00009C;
+	table-layout: fixed; width: 60%%
+
+}
+
+td
+{
+	border: 1px solid black;
+}
+th.kolumna
+{
+    background-color:#7093DB;
+   	border: 1px solid black;
+    text-align:center;
+}
+
+tr.wiersz
+{
+   background-color:#0099ff;
+   	border: 1px solid black;
+    text-align:center;
+}
+
+form
+{
+    font-family:Times New Roman;
+    font-size:20px;
+    color:#000099;
+}
