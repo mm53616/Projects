@@ -1,0 +1,4 @@
+4	3
+Aneta	Kasia
+Piotr	Magda
+Piotr	Kasia

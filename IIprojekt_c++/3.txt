@@ -1,0 +1,10 @@
+7	9
+Jakub	Basia
+Aneta	Jakub
+Aneta	Basia
+Piotr	Magda
+Piotr	Jakub
+Piotr	Basia
+Piotr	Filip
+Piotr	Kasia
+Magda	Kasia

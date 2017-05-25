@@ -1,0 +1,6 @@
+5	5
+Aneta	Jakub
+Aneta	Basia
+Piotr	Magda
+Piotr	Jakub
+Piotr	Kasia

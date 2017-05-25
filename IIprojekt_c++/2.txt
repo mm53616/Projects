@@ -1,0 +1,13 @@
+8	12
+Aneta	Jakub
+Aneta	Alina
+Aneta	Filip
+Piotr	Magda
+Piotr	Jakub
+Piotr	Alina
+Piotr	Filip
+Piotr	Basia
+Piotr	Dawid
+Magda	Filip
+Magda	Basia
+Jakub	Alina
